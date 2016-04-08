@@ -1,4 +1,4 @@
-# Web App using React.js + ES6
+# The Beer Store React + ES6
 
 ## Demo
 
